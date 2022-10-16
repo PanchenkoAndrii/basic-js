@@ -29,8 +29,6 @@ function transform(array) {
 		});
 		return result;
 	} else throw new Error('\'arr\' parameter must be an instance of the Array!');
-
-
 }
 
 
